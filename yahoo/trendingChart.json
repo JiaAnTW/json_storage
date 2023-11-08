@@ -1,0 +1,28 @@
+{
+  "data": [
+    {
+      "thumbnail": "https://s.yimg.com/am/60d/df14b36958983e5f6cfdeb79b2422c23",
+      "provider": "CNN.com",
+      "title": "Trump's dominance of GOP field has America bracing for a toxic campaign | CNN Politics",
+      "uuid": "56bea9cc-ace7-3596-af14-f7909072c698",
+      "time": "2 hours ago",
+      "score": 2
+    },
+    {
+      "thumbnail": "https://media.zenfs.com/en/the_huffington_post_584/c00ae78060f63b53b39a63b692d9dd09",
+      "provider": "HuffPost",
+      "title": "Trump Shares Crude Biden Meme In Series Of Unhinged Holiday Rants",
+      "uuid": "d7522eb6-1bc8-3bef-b759-9a1a2ee6ab14",
+      "time": "3 hours ago",
+      "score": 6
+    },
+    {
+      "thumbnail": "https://media.zenfs.com/en/the_huffington_post_584/f7aedc9e93fef7f9bc91f627591b92d5",
+      "provider": "HuffPost via Yahoo News",
+      "title": "Donald Trump Jr.'s Australia Tour Delayed By 'Unforeseen Circumstances'",
+      "uuid": "ac18982d-f362-376e-81f7-2efe90b43c99",
+      "time": "4 hours ago",
+      "score": 10
+    }
+  ]
+}
